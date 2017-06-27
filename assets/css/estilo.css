@@ -1,0 +1,17 @@
+
+*{
+	margin:0;
+	padding: 0;
+}
+.barra-transp{
+	background-color: transparent;
+	color:white;
+}
+.fondo-foto{
+	box-sizing: border-box;
+	background-image: url(../img/header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-origin: cover;
+	padding: 100px;
+}
